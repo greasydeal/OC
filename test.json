@@ -1,0 +1,14 @@
+[
+     {
+        "probe": "150",
+        "recipe": "Jerky",
+        "time": "2:00"
+    },
+    
+    {
+        "probe": "130",
+        "recipe": "Ham",
+        "time": "6:00"       
+    }
+
+]
